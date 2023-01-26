@@ -162,3 +162,5 @@ cython_debug/
 
 .venv
 static/output/*
+output
+output/*
