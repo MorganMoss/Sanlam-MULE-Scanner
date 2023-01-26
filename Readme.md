@@ -34,6 +34,7 @@ A Python app that searches for xml files in a directory and matches any tags wit
     (.venv) python explore.py tagname 2 -ah
 
 This will search for xml files in the current directory, match any elements with the tag 'tagname' and its children up to 2 levels deep, and output the results as an html table.
-Note
+
+## Note
 
 Make sure to activate your virtual environment before running the script (.venv in this example)
